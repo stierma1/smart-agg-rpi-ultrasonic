@@ -1,6 +1,6 @@
 {
-  "name": "smart-agg-camera-provider",
-  "version": "1.0.1",
+  "name": "smart-agg-rpi-ultrasonic",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stierma1/smart-agg-camera-provider.git"
+    "url": "git+https://github.com/stierma1/smart-agg-rpi-ultrasonic.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stierma1/smart-agg-camera-provider/issues"
+    "url": "https://github.com/stierma1/smart-agg-rpi-ultrasonic/issues"
   },
-  "homepage": "https://github.com/stierma1/smart-agg-camera-provider#readme",
+  "homepage": "https://github.com/stierma1/smart-agg-rpi-ultrasonic#readme",
   "dependencies": {
     "bluebird": "^2.10.1",
     "math-statistics": "^1.2.0",

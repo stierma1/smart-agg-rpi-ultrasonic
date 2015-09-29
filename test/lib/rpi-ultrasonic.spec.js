@@ -36,7 +36,7 @@ describe("#rpi-ultrasonic", function(){
     setTimeout(function(){
       console.log(upData);
       done();
-    }, 1000)
+    }, 1500)
 
   });
 })
